@@ -1,6 +1,6 @@
 # Compiler
 
-This is a compiler written in C for a language given by a gramar:
+This is a compiler written in C using FLEX and BISON. The language is given by a gramar:
 
 program  ⟶ procedures main
 
